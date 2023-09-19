@@ -55,7 +55,7 @@ Promovendo facilitar o encontro entre psicólogos e pacientes, MyMind permitirá
 
 #	MODELAGEM DO SISTEMA
 ##	Diagrama de Caso de uso
-![image](https://user-images.githubusercontent.com/65619277/180833096-e421e961-a48d-4c60-8aca-902bafa68ac3.png)
+![image](Artefato/CasosdeUsoMyMind.jpeg)
 
 ## Modelo de Domínio
 ![image](https://user-images.githubusercontent.com/65619277/180833269-696081b3-3370-472a-b182-36ccb61c217f.png)
